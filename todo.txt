@@ -1,0 +1,7 @@
+Top Features
+    Login 
+    Register
+    Inventory
+    Bill Generate Garney
+    Giving Permissions to Staffs
+
